@@ -1,1 +1,3 @@
-# logo
+# Logoデータ
+
+Code for harimaのロゴデータです。  
